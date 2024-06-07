@@ -20,10 +20,3 @@ Slightly separate to this, and in much need of eloquent refinement, is a commitm
 No more excuses.
 
 We can have nice things.
-
-<!--
-Find out what prompts are available and make a note.
-
- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
--->
